@@ -1,0 +1,7 @@
+Jules file browser
+
+This is meant as a compliment to Emacs or Vim.
+Use it as the solution browser/file browser pane in any
+modern IDE. Emacs has something like this in ECB, but it's
+too heavy for me.
+
